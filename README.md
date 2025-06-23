@@ -1,4 +1,4 @@
-# 🏥 Healthcare Data Analysis Dashboard
+# 🏥 Healthcare Analysis Dashboard
 
 This project is a comprehensive Power BI dashboard designed to uncover insights from healthcare data, focusing on patient demographics, hospital operations, financial trends, and clinical outcomes. The dataset was sourced from **Onyx Data's Monthly Challenge**.
 
@@ -58,3 +58,24 @@ The goal was to turn raw hospital data into actionable insights for **non-techni
 
 - **Source**: [Onyx Data Monthly Challenge](https://www.onyxdata.co.uk/)
 - **Contents**: Patient demographics, admissions, billing, test results, insurance providers
+
+---
+
+## Contributor
+Tolulope Olarewaju
+
+---
+
+## Acknowledgement 
++ Grateful to Microsoft Excel, Power BI, and PowerPoint for providing a powerful and reliable relational database management system (RDBMS) that served as the foundation for this project.
++ Grateful to Onyx Data, which provided the dataset that helped me deepen my understanding of Power BI concepts and techniques.
+
+---
+
+## License 
+
+---
+## Contact
+For questions or feedback, please contact olarewajutolulope26@gmail.com
+---
+
