@@ -1,4 +1,4 @@
-# 🏥 Healthcare Analysis Dashboard
+# 🏥 Healthcare Data Analysis Dashboard
 
 This project is a comprehensive Power BI dashboard designed to uncover insights from healthcare data, focusing on patient demographics, hospital operations, financial trends, and clinical outcomes. The dataset was sourced from **Onyx Data's Monthly Challenge**.
 
@@ -45,6 +45,17 @@ The goal was to turn raw hospital data into actionable insights for **non-techni
 
 ---
 
+## ⚙️ Challenges & Solutions
+
+| Challenge | Solution |
+|----------|----------|
+| Creating dynamic KPIs across time periods | Built a **calendar table** and used **DAX** time intelligence functions |
+| Cleaning inconsistent or missing data | Used **Power Query** to transform and structure raw datasets |
+| Filtering by multiple user-friendly dimensions (e.g., age, condition, blood type) | Implemented slicers and dropdowns for flexible, intuitive navigation |
+| Ensuring performance with large data volume | Optimized model by minimizing unnecessary columns and using star schema principles |
+
+---
+
 ## ✅ Recommendations
 
 - Launch targeted wellness programs for patients aged 50–59  
@@ -61,21 +72,25 @@ The goal was to turn raw hospital data into actionable insights for **non-techni
 
 ---
 
-## Contributor
-Tolulope Olarewaju
+## 👤 Contributor
+
+**Tolulope Olarewaju**
 
 ---
 
-## Acknowledgement 
-+ Grateful to Microsoft Excel, Power BI, and PowerPoint for providing a powerful and reliable relational database management system (RDBMS) that served as the foundation for this project.
-+ Grateful to Onyx Data, which provided the dataset that helped me deepen my understanding of Power BI concepts and techniques.
+## 🙏 Acknowledgements
+
+- Grateful to **Microsoft Excel, Power BI, and PowerPoint** for providing a powerful and reliable toolkit for business intelligence.  
+- Special thanks to **Onyx Data** for sharing a rich dataset that deepened my hands-on experience in Power BI.
 
 ---
 
-## License 
+## 📜 License
+
+This project is open for public learning and portfolio purposes.
 
 ---
-## Contact
-For questions or feedback, please contact olarewajutolulope26@gmail.com
----
 
+## 📬 Contact
+
+For questions, feedback, or collaboration, please reach out at **olarewajutolulope26@gmail.com**
